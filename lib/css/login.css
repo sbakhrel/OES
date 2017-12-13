@@ -1,0 +1,25 @@
+#login
+{
+	background: url(../img/login.jpg);
+	color:white;
+    background-size: 1366px 700px;
+    background-repeat: no-repeat;
+    padding-top: 40px; 
+    padding-bottom:40px;	
+
+}
+.vr {
+  border-left: 1px solid #eee;
+  padding: 5px;
+}
+.title{
+	color: #520000;
+	font-size: 22px; 
+}
+.content{
+	color: #222223;
+}
+.hr
+{
+	border-top: 1px solid #B1B1B1;
+}
